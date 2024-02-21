@@ -5,4 +5,4 @@ This repository is dedicated to the development of my current research work on g
 - **17-02-24** - Exploring previous research works. Finding Methodologies and datasets.
 - **19-02-24** - Preprocessing has been completed.
 - **20-02-24** - Working on different methodologies.
-- **21-02-24** - Improving methodologies by trying out optimizers.
+- **21-02-24** - Improving models by hyperparameter tuning.
