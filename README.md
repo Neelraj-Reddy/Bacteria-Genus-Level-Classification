@@ -6,3 +6,4 @@ This repository is dedicated to the development of my current research work on g
 - **19-02-24** - Preprocessing has been completed.
 - **20-02-24** - Working on different methodologies.
 - **21-02-24** - Improving models by hyperparameter tuning.
+- **22-01-24** - Transfer learning using advanced architectures.
