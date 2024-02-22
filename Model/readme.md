@@ -7,3 +7,4 @@
 - Model 5 - Attention mechanism based Imageclassifier with ResNet50 as backbone
 - Model 6 - Custom CNN in combination with depthwise convolution
 - Model 7 - Bayesian optimization on custom CNN architecture
+- Model 8 - YoloV8n-cls , 3 epochs
